@@ -1,0 +1,16 @@
+{
+  "name": "stevia",
+  "version": "0.0.0",
+  "homepage": "https://github.com/SteviaLabs/stevia",
+  "authors": [
+    "Stevia"
+  ],
+  "license": "GPLv2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stevia",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SteviaLabs/stevia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SteviaLabs/stevia/issues"
+  }
+}
